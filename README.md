@@ -55,5 +55,5 @@
 ### 📊 Contacto
 * 🇬🇧 **Inglés:** Avanzado (B2/C1) | 🇪🇸 **Español:** Nativo
 * 📧 **Email (Para Trabajo):** [emmanuelgspersonal@gmail.com](mailto:emmanuelgspersonal@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
+* 💼 **LinkedIn:** [Emmanuel Grande Sierra](https://www.linkedin.com/in/emmanuel-grande-sierra-a37982348/)
 * 📍 **Madrid, España**
